@@ -1,0 +1,6 @@
+{
+  "name": "ProAct AI",
+  "description": "An AI-powered proactive productivity companion featuring intelligent task prioritization, context-aware scheduling, autonomous execution, and notification escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
